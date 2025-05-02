@@ -39,15 +39,15 @@ Gosto de desenvolver projetos que resolvam problemas reais e ajudem no aprendiza
 - Java com Orientação a Objetos – SENAI
 - Fundamentos de Python – SENAI
 - Git e GitHub – DIO
-- Introdução à POO com Python – DIO
+- Suzano Python Developer – DIO
 - **International Masterclasses Hands-on Particle Physics** – IFUSP
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/guilherme-henrique-cunha](https://www.linkedin.com/in/guilherme-henrique-cunha)
-- Email: guilhermehcunha777@gmail.com
+- LinkedIn: [www.linkedin.com/in/guilhermecunha00](www.linkedin.com/in/guilhermecunha00)
+- Email: guihcunha12@gmail.com
 
 ---
 
