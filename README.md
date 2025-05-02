@@ -1,3 +1,4 @@
+![github-header-image (1)](https://github.com/user-attachments/assets/0645d3e4-6d5a-4df5-8d65-d42d31802c78)
 # 👋 Olá, eu sou o Guilherme Henrique de Oliveira Cunha
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** - UNIP  
