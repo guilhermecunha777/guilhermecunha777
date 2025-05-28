@@ -29,7 +29,7 @@ Gosto de desenvolver projetos que resolvam problemas reais e ajudem no aprendiza
 | 📊 [Análise de Ações](https://github.com/guilhermecunha777/analysis) | Aplicação para monitoramento de preços de ações com visualização gráfica e alertas | Python, Matplotlib, API |
 | ✅ [Lista de Tarefas (Back-End)](https://github.com/guilhermecunha777/lista-de-tarefas) | Sistema para gerenciamento de tarefas com Java e Spring Boot | Java, Spring Boot |
 | 🏦 [Sistema Bancário](https://github.com/guilhermecunha777/sistema-bancario) | Sistema bancário com funcionalidades de conta, saque, depósito e histórico | Python, POO |
-| 📦 [Sistema de Estoque em Python](https://github.com/guilhermecunha777/estoque-em-python) | Aplicação de controle de estoque com cadastro, entrada e saída de produtos | Python |
+| 📦 [uma plataforma de ensino](https://github.com/guilhermecunha777/projeto-do-pim.git) | |  |
 
 
 ---
